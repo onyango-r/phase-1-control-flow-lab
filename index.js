@@ -8,12 +8,10 @@ function scuberGreetingForFeet(feet){
   }else (feet > 2500);{
   return "No can do." 
   }
-   //Write your code here!
 }
 
 function ternaryCheckCity(City){
   return City === "NYC"? "Ok, sounds good." : "No go."
-  //Write your code here!
 }
 
 function switchOnCharmFromTip(tip){
